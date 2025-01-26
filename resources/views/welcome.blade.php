@@ -7,7 +7,7 @@
         <title>:p</title>
         @vite(['resources/css/app.css', 'resources/js/app.js'])
     </head>
-    <body class="font-sans antialiased dark:bg-black dark:text-white/50">
-        <h1>:P</h1>
+    <body class="font-sans bg-neutral-800 green-500 flex flex-col items-center justify-center">
+        <h1 class="text-xl">:P</h1>
     </body>
 </html>
